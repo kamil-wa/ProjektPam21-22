@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">moje seriale</string>
+    <string name="Akceptuje">Akceptuj</string>
+    <string name="ocena">ocena</string>
+    <string name="">Wpisz swoją ocene</string>
+    <string name="przejdz_do_szczeg_w">Przejdz do szczegółów</string>
+    <string name="lista_seriali">Lista seriali</string>
+    <string name="zmien_swoja_ocene">Zmien swoja ocene</string>
+    <string name="zmie_ocene">Zmień ocene</string>
+    <string name="opisDomZPapieru">Ośmioro zamaskowanych przestępców wdziera się do budynku hiszpańskiej mennicy narodowej, skąd zamierza zrabować niemal dwa i pół miliarda euro. Akcją z zewnątrz kieruje tajemniczy Profesor (Álvaro Morte), który wcześniej przez kilka miesięcy przygotowywał specjalistów z różnych dziedzin do napadu stulecia. Uczestnicy skoku nie znają swoich imion, ze względów bezpieczeństwa zwracają się do siebie, używając pseudonimów zaczerpniętych od nazw światowych miast. Nie mogą również nawiązywać bliższych relacji. Profesor przygotował niezwykle skomplikowany plan, wydaje się brać pod uwagę każdą ewentualność i mieć wszystko dopięte na ostatni guzik, ale nie wszystko przebiega tak jak oczekiwał.</string>
+    <string name="twoja_ocena">Twoja ocena</string>
+    <string name="ocane_wedle_filmweb">Ocane wedle FILMWEB</string>
+    <string name="opisLoki">Po kradzieży Tesseraktu Loki zostaje zmuszony do pracy dla organizacji monitorującej linie czasu. Aby zapobiec katastrofie, bóg oszustwa zaczyna podróżować w czasie i zmieniać historię ludzkości.</string>
+    <string name="opisMando">Akcja serialu rozgrywa się kilka lat po Powrocie Jediw miejscu znanym jako Zewnętrzne Rubieże. Mieszkańców niespecjalnie obchodzi, że Imperium upadło, a na jego gruzach powstała Nowa Republika. Organizacja Najwyższy Porządek jeszcze się nie narodziła. Fabuła skupia się na perypetiach samotnego rewolwerowca, jednego z Mandalorian, słynnych najemników i łowców nagród, rozpoznawalnych przez charakterystyczną zbroję</string>
+    <string name="zmie_swoj_ocene">Zmień swoją ocene</string>
+    <string name="tu_wpisz_swoj_ocene">Tu wpisz swoją ocene</string>
+</resources>

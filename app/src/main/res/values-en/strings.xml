@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My serials</string>
+    <string name="ocena">grate</string>
+    <string name="przejdz_do_szczeg_w">Enter your grade</string>
+    <string name="lista_seriali">Series list</string>
+    <string name="zmien_swoja_ocene">Change your rating</string>
+    <string name="zmie_ocene">Change your grade</string>
+    <string name="opisDomZPapieru">Eight masked criminals break into the building of the Spanish national mint, from where they intend to rob almost two and a half billion euros. The action from the outside is led by a mysterious Professor (Álvaro Morte), who for several months previously prepared specialists in various fields for the attack of the century. The participants of the jump do not know their names, for safety reasons they address each other using pseudonyms taken from the names of world cities. They also cannot develop a closer relationship. The professor has prepared an extremely complicated plan, it seems to take into account every eventuality and have everything buttoned up, but not everything is going as expected.</string>
+    <string name="twoja_ocena">Your opinion</string>
+    <string name="ocane_wedle_filmweb">Rated according to FILMWEB</string>
+    <string name="opisLoki">After the theft of the Tesseract, Loki is forced to work for a timeline monitoring organization. To prevent a catastrophe, the god of deception begins to travel back in time and change human history.</string>
+    <string name="opisMando">The series takes place a few years after Return of the Jedi, in a place known as the Outer Rim. The townspeople don\'t really care that the Empire has fallen and that the New Republic has risen from its ruins. The First Order organization is not yet born. The plot focuses on the adventures of a lone gunslinger, one of the Mandalorians, famous mercenaries and bounty hunters, recognizable by their characteristic armor</string>
+    <string name="zmie_swoj_ocene">Change your rating</string>
+    <string name="Akceptuje">Accept</string>
+</resources>
